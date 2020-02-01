@@ -1,0 +1,9 @@
+name: Log input
+description: A simple GitHub action that log its input for debugging purposes.
+runs:
+  using: node12
+  main: ./dist/index.js
+inputs:
+  input:
+    description: Input that is supposed to be logged.
+    required: true
