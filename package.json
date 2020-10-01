@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Andarist/log-action#readme",
   "dependencies": {
-    "@actions/core": "^1.2.2"
+    "@actions/core": "^1.2.6"
   },
   "devDependencies": {
     "@types/node": "^13.5.1",
